@@ -1,0 +1,24 @@
+{
+  "name": "itec-rnd-circle10-training",
+  "version": "1.0.0",
+  "description": "Training technical for ITEC - RnD Circle 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngdhuy/ITEC-RnD-Circle10-Training.git"
+  },
+  "keywords": [
+    "Training",
+    "ITEC",
+    "RnD"
+  ],
+  "author": "NDHuy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngdhuy/ITEC-RnD-Circle10-Training/issues"
+  },
+  "homepage": "https://github.com/ngdhuy/ITEC-RnD-Circle10-Training#readme"
+}
