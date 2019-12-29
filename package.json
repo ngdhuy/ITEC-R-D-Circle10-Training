@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ngdhuy/ITEC-RnD-Circle10-Training/issues"
   },
-  "homepage": "https://github.com/ngdhuy/ITEC-RnD-Circle10-Training#readme"
+  "homepage": "https://github.com/ngdhuy/ITEC-RnD-Circle10-Training#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
