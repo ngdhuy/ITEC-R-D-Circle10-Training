@@ -1,0 +1,17 @@
+[
+    {
+        "id" : 1,
+        "name" : "Phạm Xuân Sơn",
+        "role" : "student"
+    },
+    {
+        "id" : 1,
+        "name" : "Lâm Ái Jin",
+        "role" : "student"
+    },
+    {
+        "id" : 1,
+        "name" : "Nguyễn Đào Phước An",
+        "role" : "student"
+    }
+]
