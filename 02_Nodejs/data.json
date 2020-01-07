@@ -1,0 +1,16 @@
+[
+    {
+        "id"    : 1,
+        "name"  :"Trần Đức Huy",
+        "role"  :"Teacher"
+    },
+    {
+        "id"    :2,
+        "name"  :"Lâm Ái Jin",
+        "role"  :"Student"
+    },
+    {
+        "id"    :3,
+        "name"  :"ABC"
+    }
+]
