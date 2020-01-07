@@ -7,14 +7,15 @@ const port = 3000
 const server = http.createServer((req, res)=>{
     res.statusCode = 200; //goi y du lieu thanh cong
     res.setHeader('Context-Type', 'text/plain')
+    let data =[1,2,3,4]
     fs.writeFile('output.json' , JSON.stringify(data) , {encoding: 'utf8'}, (err) =>{
         if(err) {
-            console.log(err);
+            console.log(err)
             res.end(err)
         }else{
             let messenge = "successfully write to file "
-            console.log(messenge);
-            res.end(messenge);
+            console.log(messenge)
+            res.end(messenge)
         }
     })
 })
