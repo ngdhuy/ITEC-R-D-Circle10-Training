@@ -1,0 +1,18 @@
+{
+  "name": "itec_training_nodejs",
+  "version": "1.0.0",
+  "description": "Training NodeJS technical",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "es",
+    "itec"
+  ],
+  "author": "NDHuy",
+  "license": "MIT"
+}
