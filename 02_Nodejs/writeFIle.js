@@ -8,7 +8,7 @@ const server = http.createServer((req, res)=>{
     res.statusCode = 200;
     res.setHeader('Content-Type','text/json')
     
-    let data = [1, 2, {"name": "Mr Bưởi"} ]
+    let data = [1, 2, {"name": "Huy Huỳnh"} ]
 
     fs.writeFile('output.json', JSON.stringify(data), {encoding: 'utf-8'},(err)=>{
        if(err){
