@@ -21,9 +21,9 @@ app.use(session({
 app.use(bodyParser.urlencoded({extended : true}));
 app.use(bodyParser.json());
 
-app.get('/', function(request, response) {
-	response.sendFile(path.join(__dirname + '/login.html'));
-});
+// app.get('/', function(request, response) {
+//	response.sendFile(path.join(__dirname + '/login.html'));
+// });
 
 app.post('/auth', function(request, response) {
 	var username = request.body.username;
