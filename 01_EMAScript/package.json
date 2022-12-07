@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/ngdhuy/ITEC-RnD-Circle10-Training#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
